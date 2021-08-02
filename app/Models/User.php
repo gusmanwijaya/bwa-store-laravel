@@ -30,6 +30,7 @@ class User extends Authenticatable
         'store_name',
         'categories_id',
         'store_status',
+        'roles',
     ];
 
     /**
